@@ -17,7 +17,7 @@ RPC.update(
     large_image='car',
     large_text='Porsche',
     small_image='nxd',
-    small_text='🖖🏻 ',
+    small_text='🖖🏻',
     buttons=[
          {
             "label": 'KYOTO',
